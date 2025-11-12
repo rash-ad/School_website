@@ -32,6 +32,10 @@ a{
 
 
 }
+
+.background-img{
+    background-image:initial;
+}
 p{
     line-break:none;
     font-size:20px;
