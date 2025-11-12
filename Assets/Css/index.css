@@ -35,6 +35,8 @@ a{
 
 .background-img{
     background-image:initial;
+    width:100%;
+    height:500px;
 }
 p{
     line-break:none;
